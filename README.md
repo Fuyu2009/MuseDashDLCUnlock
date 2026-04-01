@@ -1,17 +1,17 @@
-# Muse Dash DLC Unlock
+# Muse Dash DLC 解锁
 
-Wanted to buy Just as Planned but missed the deadline? Don't want to buy DLC at all but still want to freeload? This is the mod for you.
+想购买「计划通」但错过了截止日期？不想花钱买 DLC 但还是想白嫖？这个模组就是为你准备的。
 
-## Instructions
+## 使用说明
 
-1. Install [MelonLoader](https://melonwiki.xyz/#/) to the Muse Dash folder
-2. Copy `MuseDashDLCUnlock.dll` to the `Mods` folder
-3. Profit
+1. 将 [MelonLoader](https://melonwiki.xyz/#/) 安装到 Muse Dash 文件夹中
+2. 将 `MuseDashDLCUnlock.dll` 复制到 `Mods` 文件夹中
+3. 享受成果
 
 ## Build Instructions
 
-1. Install [MelonLoader](https://melonwiki.xyz/#/) to the Muse Dash folder
-2. Run Muse Dash once to populate Il2Cpp hollowed assemblies
-3. Open solution and build DLL
+1. 将 [MelonLoader](https://melonwiki.xyz/#/) 安装到 Muse Dash 文件夹中
+2. 运行一次 Muse Dash，以生成 Il2Cpp 空心程序集
+3. 打开解决方案并构建 DLL
 
-If build fails, make sure to check the location of referenced assemblies.
+如果构建失败，请确保检查所引用程序集的位置。
